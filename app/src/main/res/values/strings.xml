@@ -2,6 +2,4 @@
     <string name="app_name">Hola Mundo</string>
     <!-- %1$s se sustituye por el nombre que recibe Greeting -->
     <string name="greeting">¡Hola, %1$s!</string>
-    <string name="boton_saludar">Saludar</string>
-    <string name="mensaje_boton">¡Has pulsado el botón!</string>
 </resources>
