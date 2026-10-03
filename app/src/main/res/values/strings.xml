@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">holamundo</string>
+    <string name="app_name">Hola Mundo</string>
+    <!-- %1$s se sustituye por el nombre que recibe Greeting -->
+    <string name="greeting">¡Hola, %1$s!</string>
 </resources>
